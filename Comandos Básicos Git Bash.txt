@@ -1,0 +1,22 @@
+Comandos Básicos Git Bash
+
+pwd : mostra seu diretorio atual
+ls : lista de conteudo do diretorio
+cd: chance diretory
+cd.. ou cd../ : volta uma pasta
+git init : inicia um repo
+git clone : clona um repositorio
+git status : mostra os status atual do git
+git log : historico
+git branch : mostra as branchs criadas
+git add : adiciona alteracoes antes de commitar
+git rm : remove 
+git commit -m: finaliza as acoes "com um texto explicativo"
+git checkout : muda de branch
+git checkout: -b cria uma branch e muda para ela
+git branch: cria uma branch
+git branch -d: deleta branch
+git merge: mescla o conteudo as branchs
+git pull: puxa infos
+git push: envia
+ 
